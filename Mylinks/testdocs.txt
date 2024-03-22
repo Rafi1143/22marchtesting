@@ -1,0 +1,26 @@
+practise adf - code 7 three joins section 5- video 114
+
+step 1
+
+1. Open git hub
+2. Create new repository 
+3. Click on new
+4. Enter resporiostuy name
+5. click on Add read me
+6. Choose license - GNU - Public license v3.0
+7. Create repository
+
+step 2: Clone 
+ 1. Clone my repository
+ 2. OPen GIT UI
+ 3. Click on clone existing repository
+ 4. Source location - enter git hub url
+ 5. Target directiory - my local floder 
+ 6. Click on clone 
+ 
+Step 3 - Visual code
+ 1. Click on file 
+ 2. select open folder
+ 3. select my folder 
+ 4. Click on read me - read me is master branch 
+ 
