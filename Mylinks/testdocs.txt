@@ -1,5 +1,3 @@
-practise adf - code 7 three joins section 5- video 114
-
 step 1
 
 1. Open git hub
